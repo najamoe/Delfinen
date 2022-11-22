@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hej med jer alle!");
-    }
+    UserInterface userInterface = new UserInterface();
+    userInterface.menu();
 
+    }
 }
