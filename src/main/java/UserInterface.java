@@ -10,6 +10,7 @@ public class UserInterface {
         int userChoice;
         do {
             boolean isRunning;
+            System.out.println("HÅLLLÅÅÅÅ");
 
             System.out.println("Delfinen Swimming Club\n");
             System.out.println("Menu");
